@@ -1,1 +1,3 @@
 Sistemas de login
+entrar com email
+entrar com o nome
