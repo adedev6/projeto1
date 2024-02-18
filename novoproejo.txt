@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Olá meu nome é Ademir Ferreira dos Santos
+=======
+Olá meu nome é Ademir Santos
+Olá eu sou uma nova linha
+>>>>>>> ace5dec6160854e0b8aa50a4e1df9d844236bdbc
